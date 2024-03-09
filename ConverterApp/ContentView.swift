@@ -64,7 +64,7 @@ struct ContentView: View {
                         .pickerStyle(SegmentedPickerStyle())
                     }
                     
-                    Section(header: Text("Grados")) {
+                    Section(header: Text("Grados \(converter[fromIndex])")) {
                         TextField("Grados", text: Binding(
                             get: { "\(self.value1)" },
                             set: {
@@ -76,7 +76,7 @@ struct ContentView: View {
                         
                     }
                     
-                    Section(header: Text("Resultado")) {
+                    Section(header: Text("Grados \(converter[toIndex])")) {
                         Text("\(String(format: "%.2f", convertedValue))")
                     }
                 }
