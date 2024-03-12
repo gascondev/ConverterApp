@@ -19,7 +19,12 @@ En este proyecto, se aprende sobre la estructura básica de las aplicaciones Swi
 
 <h3>Vista del proyecto</h3>
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-12 at 12 56 13](https://github.com/gascondev/ConverterApp/assets/144269155/179356a4-b6a8-4872-8ddc-6ef8ce6cc5ea)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-12 at 12 56 13](https://github.com/gascondev/ConverterApp/assets/144269155/e5bdac13-b379-4228-9cd9-55f5fc232ecf)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-12 at 13 00 24](https://github.com/gascondev/ConverterApp/assets/144269155/b7ae2068-dd7d-4b9b-b7b3-6da8ccea83a5)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-12 at 13 01 20](https://github.com/gascondev/ConverterApp/assets/144269155/eac8932d-712d-4286-a717-f8bc3451b45c)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-12 at 13 02 26](https://github.com/gascondev/ConverterApp/assets/144269155/e5bfd4cd-385b-4c0d-99c1-e3c93008d5a6)
+
+
 
 
 <h2>Instalación del proyecto</h2>
